@@ -20,3 +20,25 @@
 10:01:25  [main] 	Deinitializing Modules
 10:01:25  [main] 	Deinitializing Control Panel
 
+18:22:52  [main] 	Initializing Control Panel
+18:22:52  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+18:22:52  [main] 	XAMPP Version: 7.3.8
+18:22:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:22:52  [main] 	You are not running with administrator rights! This will work for
+18:22:52  [main] 	most application stuff but whenever you do something with services
+18:22:52  [main] 	there will be a security dialogue or things will break! So think 
+18:22:52  [main] 	about running this application with administrator rights!
+18:22:52  [main] 	XAMPP Installation Directory: "d:\pino\progiii\xampp\"
+18:22:52  [main] 	Checking for prerequisites
+18:22:52  [main] 	All prerequisites found
+18:22:52  [main] 	Initializing Modules
+18:22:52  [main] 	Starting Check-Timer
+18:22:52  [main] 	Control Panel Ready
+18:23:05  [Apache] 	Attempting to start Apache app...
+18:23:06  [Apache] 	Status change detected: running
+22:09:22  [Apache] 	Attempting to stop Apache (PID: 3900)
+22:09:22  [Apache] 	Attempting to stop Apache (PID: 3820)
+22:09:23  [Apache] 	Status change detected: stopped
+22:09:30  [main] 	Deinitializing Modules
+22:09:30  [main] 	Deinitializing Control Panel
+

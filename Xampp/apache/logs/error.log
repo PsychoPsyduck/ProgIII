@@ -80,3 +80,116 @@
 [Mon Sep 02 20:44:08.608531 2019] [php7:notice] [pid 3820:tid 1548] [client ::1:2022] PHP Notice:  Array to string conversion in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase2\\index.php on line 25
 [Mon Sep 02 20:44:08.608531 2019] [php7:warn] [pid 3820:tid 1548] [client ::1:2022] PHP Warning:  Use of undefined constant dni - assumed 'dni' (this will throw an Error in a future version of PHP) in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase2\\index.php on line 25
 [Mon Sep 02 20:44:08.608531 2019] [php7:notice] [pid 3820:tid 1548] [client ::1:2022] PHP Notice:  Array to string conversion in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase2\\index.php on line 25
+[Mon Sep 16 18:34:15.589321 2019] [ssl:warn] [pid 3828:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 18:34:15.655325 2019] [core:warn] [pid 3828:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 16 18:34:15.656325 2019] [ssl:warn] [pid 3828:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 18:34:15.979343 2019] [mpm_winnt:notice] [pid 3828:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Sep 16 18:34:15.979343 2019] [mpm_winnt:notice] [pid 3828:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Sep 16 18:34:15.979343 2019] [core:notice] [pid 3828:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Sep 16 18:34:15.981343 2019] [mpm_winnt:notice] [pid 3828:tid 268] AH00418: Parent: Created child process 4068
+[Mon Sep 16 18:34:16.183355 2019] [ssl:warn] [pid 4068:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 18:34:16.213357 2019] [ssl:warn] [pid 4068:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 18:34:16.232358 2019] [mpm_winnt:notice] [pid 4068:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 16 19:33:48.621537 2019] [php7:error] [pid 4068:tid 1536] [client ::1:1333] script 'D:/Pino/ProgIII/Xampp/htdocs/clase4/.index.php' not found or unable to stat
+[Mon Sep 16 19:34:09.035705 2019] [php7:error] [pid 4068:tid 1536] [client ::1:1335] script 'D:/Pino/ProgIII/Xampp/htdocs/clase4/.index.php' not found or unable to stat
+[Mon Sep 16 19:59:44.437525 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1366] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 19:59:44.438525 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1366] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:00:52.814436 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1367] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:00:52.814436 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1367] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:01:02.046964 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1368] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:01:02.046964 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1368] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:01:08.117311 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1370] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:01:08.118311 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1370] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:01:38.050023 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1372] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:01:38.051023 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1372] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:02:28.566912 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1373] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:02:28.566912 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1373] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:02:36.358358 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1374] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:02:36.359358 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1374] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:04:03.224326 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1378] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:04:03.225326 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1378] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:04:05.113434 2019] [php7:warn] [pid 4068:tid 1536] [client ::1:1378] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:04:05.114434 2019] [php7:notice] [pid 4068:tid 1536] [client ::1:1378] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:05:12.219273 2019] [ssl:warn] [pid 1912:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:12.256275 2019] [core:warn] [pid 1912:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 16 20:05:12.257275 2019] [ssl:warn] [pid 1912:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:12.273276 2019] [mpm_winnt:notice] [pid 1912:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Sep 16 20:05:12.273276 2019] [mpm_winnt:notice] [pid 1912:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Sep 16 20:05:12.273276 2019] [core:notice] [pid 1912:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Sep 16 20:05:12.274276 2019] [mpm_winnt:notice] [pid 1912:tid 268] AH00418: Parent: Created child process 5532
+[Mon Sep 16 20:05:12.468287 2019] [ssl:warn] [pid 5532:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:12.540291 2019] [ssl:warn] [pid 5532:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:12.565292 2019] [mpm_winnt:notice] [pid 5532:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 16 20:05:15.645469 2019] [php7:warn] [pid 5532:tid 1580] [client ::1:1379] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:05:15.646469 2019] [php7:notice] [pid 5532:tid 1580] [client ::1:1379] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:05:19.875711 2019] [php7:warn] [pid 5532:tid 1580] [client ::1:1379] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:05:19.876711 2019] [php7:notice] [pid 5532:tid 1580] [client ::1:1379] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:05:20.955772 2019] [php7:warn] [pid 5532:tid 1580] [client ::1:1379] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:05:20.956772 2019] [php7:notice] [pid 5532:tid 1580] [client ::1:1379] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:05:31.308364 2019] [ssl:warn] [pid 3248:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:31.349367 2019] [core:warn] [pid 3248:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 16 20:05:31.350367 2019] [ssl:warn] [pid 3248:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:31.366368 2019] [mpm_winnt:notice] [pid 3248:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Sep 16 20:05:31.366368 2019] [mpm_winnt:notice] [pid 3248:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Sep 16 20:05:31.366368 2019] [core:notice] [pid 3248:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Sep 16 20:05:31.367368 2019] [mpm_winnt:notice] [pid 3248:tid 268] AH00418: Parent: Created child process 1600
+[Mon Sep 16 20:05:31.524377 2019] [ssl:warn] [pid 1600:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:31.558379 2019] [ssl:warn] [pid 1600:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:05:31.573380 2019] [mpm_winnt:notice] [pid 1600:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 16 20:05:36.573666 2019] [php7:warn] [pid 1600:tid 1624] [client ::1:1380] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:05:36.574666 2019] [php7:notice] [pid 1600:tid 1624] [client ::1:1380] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:06:23.514350 2019] [ssl:warn] [pid 3908:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:06:23.546352 2019] [core:warn] [pid 3908:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 16 20:06:23.548352 2019] [ssl:warn] [pid 3908:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:06:23.563353 2019] [mpm_winnt:notice] [pid 3908:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Sep 16 20:06:23.563353 2019] [mpm_winnt:notice] [pid 3908:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Sep 16 20:06:23.563353 2019] [core:notice] [pid 3908:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Sep 16 20:06:23.564353 2019] [mpm_winnt:notice] [pid 3908:tid 268] AH00418: Parent: Created child process 3824
+[Mon Sep 16 20:06:23.722362 2019] [ssl:warn] [pid 3824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:06:23.756364 2019] [ssl:warn] [pid 3824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:06:23.771365 2019] [mpm_winnt:notice] [pid 3824:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 16 20:06:25.283452 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1381] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:06:25.283452 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1381] PHP Notice:  Undefined index: otra in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:07:03.212621 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1382] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:07:03.212621 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1382] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:07:28.341058 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1386] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:07:28.342058 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1386] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:08:02.519013 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1388] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:08:16.328803 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1390] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:08:16.328803 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1390] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:08:51.978842 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1392] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:08:51.979842 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1392] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:09:05.091592 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1393] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:09:05.092592 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1393] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:09:28.937956 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1395] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:09:28.938956 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1395] PHP Notice:  Undefined index: imgen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:09:42.984760 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1397] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:09:42.986760 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1397] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:09:45.883925 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1397] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:09:45.883925 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1397] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:10:08.507219 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1399] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:10:21.341953 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1401] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:10:21.341953 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1401] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:11:40.177463 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1404] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:11:40.178463 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1404] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:12:42.831046 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1407] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:12:42.832046 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1407] PHP Notice:  Undefined index: imagens in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:13:27.627608 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1409] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:13:27.627608 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1409] PHP Notice:  Undefined index: imagens in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:13:31.807847 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1409] PHP Notice:  Undefined index: imagens in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:13:53.531090 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1410] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:13:53.531090 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1410] PHP Notice:  Undefined index: imagens in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:14:07.518890 2019] [php7:warn] [pid 3824:tid 1624] [client ::1:1411] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:14:07.519890 2019] [php7:notice] [pid 3824:tid 1624] [client ::1:1411] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
+[Mon Sep 16 20:22:43.886425 2019] [ssl:warn] [pid 4316:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:22:43.928427 2019] [core:warn] [pid 4316:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 16 20:22:43.929427 2019] [ssl:warn] [pid 4316:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:22:43.946428 2019] [mpm_winnt:notice] [pid 4316:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Sep 16 20:22:43.946428 2019] [mpm_winnt:notice] [pid 4316:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Sep 16 20:22:43.946428 2019] [core:notice] [pid 4316:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Sep 16 20:22:43.947428 2019] [mpm_winnt:notice] [pid 4316:tid 268] AH00418: Parent: Created child process 6080
+[Mon Sep 16 20:22:44.163440 2019] [ssl:warn] [pid 6080:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:22:44.230444 2019] [ssl:warn] [pid 6080:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Sep 16 20:22:44.246445 2019] [mpm_winnt:notice] [pid 6080:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 16 20:22:47.097608 2019] [php7:warn] [pid 6080:tid 1608] [client ::1:1503] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[Mon Sep 16 20:22:47.097608 2019] [php7:notice] [pid 6080:tid 1608] [client ::1:1503] PHP Notice:  Undefined index: imagen in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase4\\index.php on line 2
