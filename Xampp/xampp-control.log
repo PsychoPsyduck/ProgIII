@@ -42,3 +42,87 @@
 22:09:30  [main] 	Deinitializing Modules
 22:09:30  [main] 	Deinitializing Control Panel
 
+18:34:07  [main] 	Initializing Control Panel
+18:34:07  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+18:34:07  [main] 	XAMPP Version: 7.3.8
+18:34:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:34:07  [main] 	You are not running with administrator rights! This will work for
+18:34:07  [main] 	most application stuff but whenever you do something with services
+18:34:07  [main] 	there will be a security dialogue or things will break! So think 
+18:34:07  [main] 	about running this application with administrator rights!
+18:34:07  [main] 	XAMPP Installation Directory: "d:\pino\progiii\xampp\"
+18:34:07  [main] 	Checking for prerequisites
+18:34:08  [main] 	All prerequisites found
+18:34:08  [main] 	Initializing Modules
+18:34:08  [main] 	Starting Check-Timer
+18:34:08  [main] 	Control Panel Ready
+18:34:14  [mysql] 	Attempting to start MySQL app...
+18:34:14  [mysql] 	Status change detected: running
+18:34:14  [Apache] 	Attempting to start Apache app...
+18:34:14  [Apache] 	Status change detected: running
+19:59:41  [mysql] 	Attempting to stop MySQL app...
+19:59:41  [mysql] 	Status change detected: stopped
+20:04:00  [mysql] 	Attempting to start MySQL app...
+20:04:01  [mysql] 	Status change detected: running
+20:05:10  [mysql] 	Attempting to stop MySQL app...
+20:05:10  [mysql] 	Status change detected: stopped
+20:05:11  [Apache] 	Attempting to stop Apache (PID: 3828)
+20:05:11  [Apache] 	Attempting to stop Apache (PID: 4068)
+20:05:11  [Apache] 	Status change detected: stopped
+20:05:11  [Apache] 	Attempting to start Apache app...
+20:05:11  [Apache] 	Status change detected: running
+20:05:12  [mysql] 	Attempting to start MySQL app...
+20:05:12  [mysql] 	Status change detected: running
+20:05:25  [Apache] 	Attempting to stop Apache (PID: 1912)
+20:05:25  [Apache] 	Attempting to stop Apache (PID: 5532)
+20:05:25  [Apache] 	Status change detected: stopped
+20:05:26  [mysql] 	Attempting to stop MySQL app...
+20:05:26  [mysql] 	Status change detected: stopped
+20:05:29  [mysql] 	Attempting to start MySQL app...
+20:05:29  [mysql] 	Status change detected: running
+20:05:31  [Apache] 	Attempting to start Apache app...
+20:05:31  [Apache] 	Status change detected: running
+20:06:21  [Apache] 	Attempting to stop Apache (PID: 3248)
+20:06:21  [Apache] 	Attempting to stop Apache (PID: 1600)
+20:06:22  [Apache] 	Status change detected: stopped
+20:06:23  [Apache] 	Attempting to start Apache app...
+20:06:23  [Apache] 	Status change detected: running
+20:21:56  [Apache] 	Attempting to stop Apache (PID: 3908)
+20:21:56  [Apache] 	Attempting to stop Apache (PID: 3824)
+20:21:56  [Apache] 	Status change detected: stopped
+20:21:57  [mysql] 	Attempting to stop MySQL app...
+20:21:57  [mysql] 	Status change detected: stopped
+20:22:43  [Apache] 	Attempting to start Apache app...
+20:22:43  [Apache] 	Status change detected: running
+20:22:43  [mysql] 	Attempting to start MySQL app...
+20:22:44  [mysql] 	Status change detected: running
+20:22:45  [mysql] 	Attempting to stop MySQL app...
+20:22:46  [mysql] 	Status change detected: stopped
+20:37:48  [Apache] 	Attempting to stop Apache (PID: 4316)
+20:37:48  [Apache] 	Attempting to stop Apache (PID: 6080)
+20:37:48  [Apache] 	Status change detected: stopped
+20:37:55  [main] 	Deinitializing Modules
+20:37:55  [main] 	Deinitializing Control Panel
+
+18:53:02  [main] 	Initializing Control Panel
+18:53:02  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+18:53:02  [main] 	XAMPP Version: 7.3.8
+18:53:02  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:53:02  [main] 	You are not running with administrator rights! This will work for
+18:53:02  [main] 	most application stuff but whenever you do something with services
+18:53:02  [main] 	there will be a security dialogue or things will break! So think 
+18:53:02  [main] 	about running this application with administrator rights!
+18:53:02  [main] 	XAMPP Installation Directory: "d:\pino\progiii\xampp\"
+18:53:02  [main] 	Checking for prerequisites
+18:53:03  [main] 	All prerequisites found
+18:53:03  [main] 	Initializing Modules
+18:53:03  [main] 	Starting Check-Timer
+18:53:03  [main] 	Control Panel Ready
+18:53:08  [Apache] 	Attempting to start Apache app...
+18:53:09  [Apache] 	Status change detected: running
+19:33:43  [Apache] 	Attempting to stop Apache (PID: 3476)
+19:33:43  [Apache] 	Attempting to stop Apache (PID: 4924)
+19:33:43  [Apache] 	Status change detected: stopped
+19:33:46  [main] 	Deinitializing Modules
+19:33:46  [main] 	Deinitializing Control Panel
+
