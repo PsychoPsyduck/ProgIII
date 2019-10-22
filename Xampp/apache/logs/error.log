@@ -226,3 +226,13 @@
 [Mon Oct 07 20:18:24.369285 2019] [php7:warn] [pid 4052:tid 1624] [client ::1:1601] PHP Warning:  require(D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6vendor\\autoload.php): failed to open stream: No such file or directory in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6\\index.php on line 6
 [Mon Oct 07 20:18:24.369285 2019] [php7:error] [pid 4052:tid 1624] [client ::1:1601] PHP Fatal error:  require(): Failed opening required 'D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6vendor\\autoload.php' (include_path='D:\\Pino\\ProgIII\\Xampp\\php\\PEAR') in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6\\index.php on line 6
 [Mon Oct 07 20:18:32.986778 2019] [php7:error] [pid 4052:tid 1624] [client ::1:1602] PHP Fatal error:  Uncaught Error: Class 'Slim\\Factory\\AppFactory' not found in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6\\index.php:8\nStack trace:\n#0 {main}\n  thrown in D:\\Pino\\ProgIII\\Xampp\\htdocs\\clase6\\index.php on line 8
+[Mon Oct 21 18:37:47.420476 2019] [ssl:warn] [pid 4728:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 21 18:37:47.533483 2019] [core:warn] [pid 4728:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 21 18:37:47.534483 2019] [ssl:warn] [pid 4728:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 21 18:37:47.829500 2019] [mpm_winnt:notice] [pid 4728:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Oct 21 18:37:47.829500 2019] [mpm_winnt:notice] [pid 4728:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Oct 21 18:37:47.829500 2019] [core:notice] [pid 4728:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Oct 21 18:37:47.830500 2019] [mpm_winnt:notice] [pid 4728:tid 268] AH00418: Parent: Created child process 1824
+[Mon Oct 21 18:37:47.994509 2019] [ssl:warn] [pid 1824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 21 18:37:48.018510 2019] [ssl:warn] [pid 1824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 21 18:37:48.041512 2019] [mpm_winnt:notice] [pid 1824:tid 308] AH00354: Child: Starting 150 worker threads.
