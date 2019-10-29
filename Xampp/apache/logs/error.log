@@ -236,3 +236,43 @@
 [Mon Oct 21 18:37:47.994509 2019] [ssl:warn] [pid 1824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Mon Oct 21 18:37:48.018510 2019] [ssl:warn] [pid 1824:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Mon Oct 21 18:37:48.041512 2019] [mpm_winnt:notice] [pid 1824:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 28 18:30:29.845485 2019] [ssl:warn] [pid 3676:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 18:30:30.162503 2019] [core:warn] [pid 3676:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 28 18:30:30.164503 2019] [ssl:warn] [pid 3676:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 18:30:30.439519 2019] [mpm_winnt:notice] [pid 3676:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Oct 28 18:30:30.439519 2019] [mpm_winnt:notice] [pid 3676:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Oct 28 18:30:30.439519 2019] [core:notice] [pid 3676:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Oct 28 18:30:30.440519 2019] [mpm_winnt:notice] [pid 3676:tid 268] AH00418: Parent: Created child process 3724
+[Mon Oct 28 18:30:30.614529 2019] [ssl:warn] [pid 3724:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 18:30:30.733536 2019] [ssl:warn] [pid 3724:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 18:30:30.779538 2019] [mpm_winnt:notice] [pid 3724:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 28 19:35:14.413132 2019] [ssl:warn] [pid 932:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 19:35:14.468135 2019] [core:warn] [pid 932:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 28 19:35:14.473136 2019] [ssl:warn] [pid 932:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 19:35:14.514138 2019] [mpm_winnt:notice] [pid 932:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Oct 28 19:35:14.514138 2019] [mpm_winnt:notice] [pid 932:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Oct 28 19:35:14.514138 2019] [core:notice] [pid 932:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Oct 28 19:35:14.516138 2019] [mpm_winnt:notice] [pid 932:tid 268] AH00418: Parent: Created child process 5880
+[Mon Oct 28 19:35:14.678147 2019] [ssl:warn] [pid 5880:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 19:35:14.710149 2019] [ssl:warn] [pid 5880:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 19:35:14.725150 2019] [mpm_winnt:notice] [pid 5880:tid 308] AH00354: Child: Starting 150 worker threads.
+[Mon Oct 28 22:00:13.863712 2019] [ssl:warn] [pid 4012:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:14.183731 2019] [core:warn] [pid 4012:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 28 22:00:14.188731 2019] [ssl:warn] [pid 4012:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:14.216733 2019] [mpm_winnt:notice] [pid 4012:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Oct 28 22:00:14.216733 2019] [mpm_winnt:notice] [pid 4012:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Oct 28 22:00:14.216733 2019] [core:notice] [pid 4012:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Oct 28 22:00:14.217733 2019] [mpm_winnt:notice] [pid 4012:tid 268] AH00418: Parent: Created child process 2796
+[Mon Oct 28 22:00:14.379742 2019] [ssl:warn] [pid 2796:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:14.406743 2019] [ssl:warn] [pid 2796:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:14.422744 2019] [mpm_winnt:crit] [pid 2796:tid 308] (OS 109)Ha terminado la canalización.  : AH00404: Child: Unable to read socket data from parent
+[Mon Oct 28 22:00:24.789337 2019] [ssl:warn] [pid 5124:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:24.821339 2019] [core:warn] [pid 5124:tid 268] AH00098: pid file D:/Pino/ProgIII/Xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 28 22:00:24.823339 2019] [ssl:warn] [pid 5124:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:24.839340 2019] [mpm_winnt:notice] [pid 5124:tid 268] AH00455: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8 configured -- resuming normal operations
+[Mon Oct 28 22:00:24.839340 2019] [mpm_winnt:notice] [pid 5124:tid 268] AH00456: Apache Lounge VC15 Server built: May 29 2019 11:22:50
+[Mon Oct 28 22:00:24.839340 2019] [core:notice] [pid 5124:tid 268] AH00094: Command line: 'd:\\pino\\progiii\\xampp\\apache\\bin\\httpd.exe -d D:/Pino/ProgIII/Xampp/apache'
+[Mon Oct 28 22:00:24.840340 2019] [mpm_winnt:notice] [pid 5124:tid 268] AH00418: Parent: Created child process 3356
+[Mon Oct 28 22:00:24.996349 2019] [ssl:warn] [pid 3356:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:25.022351 2019] [ssl:warn] [pid 3356:tid 308] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 28 22:00:25.038351 2019] [mpm_winnt:notice] [pid 3356:tid 308] AH00354: Child: Starting 150 worker threads.

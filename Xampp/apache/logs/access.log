@@ -177,3 +177,32 @@
 ::1 - - [21/Oct/2019:18:46:52 -0300] "GET / HTTP/1.0" 400 980
 ::1 - - [21/Oct/2019:18:47:06 -0300] "GET / HTTP/1.0" 400 980
 ::1 - - [21/Oct/2019:18:47:10 -0300] "GET /clase6/saludar/ HTTP/1.1" 404 886 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [28/Oct/2019:19:31:53 -0300] "\x16\x03\x01\x02" 400 980 "-" "-"
+::1 - - [28/Oct/2019:19:32:00 -0300] "\x16\x03\x01\x02" 400 980 "-" "-"
+::1 - - [28/Oct/2019:19:32:03 -0300] "\x16\x03\x01\x02" 400 980 "-" "-"
+::1 - - [28/Oct/2019:19:32:36 -0300] "GET / HTTP/1.0" 400 980
+::1 - - [28/Oct/2019:19:32:47 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:33:21 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:33:31 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:34:00 -0300] "GET /usuarios/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:34:07 -0300] "GET / HTTP/1.0" 400 980
+::1 - - [28/Oct/2019:19:34:17 -0300] "GET /usuarios/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:34:20 -0300] "GET /usuarios HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:20 -0300] "GET /usuarios HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:23 -0300] "GET /usuarios/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:27 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:29 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:33 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:38 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:44 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:48 -0300] "GET /usuarios/saludar HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:52 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:55 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:35:58 -0300] "GET / HTTP/1.0" 400 980
+::1 - - [28/Oct/2019:19:36:08 -0300] "GET /usuarios/saludar/ HTTP/1.1" 404 1165 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:14 -0300] "GET / HTTP/1.1" 302 - "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:15 -0300] "GET /dashboard/ HTTP/1.1" 200 7576 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:27 -0300] "GET / HTTP/1.1" 302 - "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:27 -0300] "GET /dashboard/ HTTP/1.1" 200 7576 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:50 -0300] "GET /clase10/usuarios/saludar/ HTTP/1.1" 404 890 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+::1 - - [28/Oct/2019:19:36:56 -0300] "GET /clase10/usuarios/saludar HTTP/1.1" 200 19 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
