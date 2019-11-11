@@ -291,3 +291,51 @@
 21:06:43  [main] 	Deinitializing Modules
 21:06:43  [main] 	Deinitializing Control Panel
 
+18:30:26  [main] 	Initializing Control Panel
+18:30:26  [main] 	Windows Version: Windows 7 Enterprise SP1 64-bit
+18:30:26  [main] 	XAMPP Version: 7.3.8
+18:30:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:30:26  [main] 	You are not running with administrator rights! This will work for
+18:30:26  [main] 	most application stuff but whenever you do something with services
+18:30:26  [main] 	there will be a security dialogue or things will break! So think 
+18:30:26  [main] 	about running this application with administrator rights!
+18:30:26  [main] 	XAMPP Installation Directory: "d:\pino\progiii\xampp\"
+18:30:26  [main] 	Checking for prerequisites
+18:30:26  [main] 	All prerequisites found
+18:30:26  [main] 	Initializing Modules
+18:30:27  [main] 	Starting Check-Timer
+18:30:27  [main] 	Control Panel Ready
+18:30:28  [Apache] 	Attempting to start Apache app...
+18:30:28  [Apache] 	Status change detected: running
+19:34:30  [Apache] 	Attempting to stop Apache (PID: 3676)
+19:34:30  [Apache] 	Attempting to stop Apache (PID: 3724)
+19:34:31  [Apache] 	Status change detected: stopped
+19:35:13  [Apache] 	Attempting to start Apache app...
+19:35:13  [Apache] 	Status change detected: running
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 932)
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 5880)
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 932)
+22:00:12  [Apache] 	Problem killing PID 932
+22:00:12  [Apache] 	Check that you have the proper privileges
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 5880)
+22:00:12  [Apache] 	Problem killing PID 5880
+22:00:12  [Apache] 	Check that you have the proper privileges
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 932)
+22:00:12  [Apache] 	Problem killing PID 932
+22:00:12  [Apache] 	Check that you have the proper privileges
+22:00:12  [Apache] 	Attempting to stop Apache (PID: 5880)
+22:00:12  [Apache] 	Problem killing PID 5880
+22:00:12  [Apache] 	Check that you have the proper privileges
+22:00:12  [Apache] 	Status change detected: stopped
+22:00:12  [Apache] 	Attempting to start Apache app...
+22:00:13  [Apache] 	Status change detected: running
+22:00:14  [Apache] 	Attempting to stop Apache (PID: 4012)
+22:00:14  [Apache] 	Status change detected: stopped
+22:00:24  [Apache] 	Attempting to start Apache app...
+22:00:24  [Apache] 	Status change detected: running
+22:00:29  [Apache] 	Attempting to stop Apache (PID: 5124)
+22:00:29  [Apache] 	Attempting to stop Apache (PID: 3356)
+22:00:29  [Apache] 	Status change detected: stopped
+22:07:46  [main] 	Deinitializing Modules
+22:07:46  [main] 	Deinitializing Control Panel
+
