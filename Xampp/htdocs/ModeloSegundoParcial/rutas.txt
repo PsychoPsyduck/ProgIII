@@ -1,0 +1,13 @@
+alta usuario
+localhost/ModeloSegundoParcial/PracticaSP/Skeleton/public/user/usuario
+Headers: nada
+Body: email.....
+
+mostrar todos 
+localhost/ModeloSegundoParcial/PracticaSP/Skeleton/public/user/mostrar
+
+ingreso/egreso
+localhost/ModeloSegundoParcial/PracticaSP/Skeleton/public/ingreso/egreso
+headers: pedia un token ahi? VER
+
+headerstoken -> askdjhfhgsfhofiijw379y7675hgjhshd......

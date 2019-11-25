@@ -339,3 +339,43 @@
 22:07:46  [main] 	Deinitializing Modules
 22:07:46  [main] 	Deinitializing Control Panel
 
+20:56:17  [main] 	Initializing Control Panel
+20:56:17  [main] 	Windows Version:  Home  64-bit
+20:56:17  [main] 	XAMPP Version: 7.3.8
+20:56:17  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:56:17  [main] 	You are not running with administrator rights! This will work for
+20:56:17  [main] 	most application stuff but whenever you do something with services
+20:56:17  [main] 	there will be a security dialogue or things will break! So think 
+20:56:17  [main] 	about running this application with administrator rights!
+20:56:17  [main] 	XAMPP Installation Directory: "c:\users\fvg71\desktop\progiii\xampp\"
+20:56:17  [main] 	Checking for prerequisites
+20:56:17  [main] 	All prerequisites found
+20:56:17  [main] 	Initializing Modules
+20:56:17  [main] 	Starting Check-Timer
+20:56:17  [main] 	Control Panel Ready
+20:56:24  [mysql] 	Attempting to start MySQL app...
+20:56:25  [Apache] 	Attempting to start Apache app...
+20:56:25  [Apache] 	Status change detected: running
+20:56:26  [Apache] 	Status change detected: stopped
+20:56:26  [Apache] 	Error: Apache shutdown unexpectedly.
+20:56:26  [Apache] 	This may be due to a blocked port, missing dependencies, 
+20:56:26  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+20:56:26  [Apache] 	Press the Logs button to view error logs and check
+20:56:26  [Apache] 	the Windows Event Viewer for more clues
+20:56:26  [Apache] 	If you need more help, copy and post this
+20:56:26  [Apache] 	entire log window on the forums
+20:56:42  [mysql] 	Attempting to start MySQL app...
+20:56:50  [Apache] 	Attempting to start Apache app...
+20:56:50  [Apache] 	Status change detected: running
+20:56:51  [Apache] 	Status change detected: stopped
+20:56:51  [Apache] 	Error: Apache shutdown unexpectedly.
+20:56:51  [Apache] 	This may be due to a blocked port, missing dependencies, 
+20:56:51  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+20:56:51  [Apache] 	Press the Logs button to view error logs and check
+20:56:51  [Apache] 	the Windows Event Viewer for more clues
+20:56:51  [Apache] 	If you need more help, copy and post this
+20:56:51  [Apache] 	entire log window on the forums
+20:57:15  [main] 	Executing "services.msc"
+23:02:31  [main] 	Deinitializing Modules
+23:02:31  [main] 	Deinitializing Control Panel
+

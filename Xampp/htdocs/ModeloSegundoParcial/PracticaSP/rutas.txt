@@ -1,0 +1,6 @@
+Alta usuario
+localhost/SkeletonMaster/public/Usuario/usuario
+login
+localhost/SkeletonMaster/public/Usuario/login
+materia
+localhost/SkeletonMaster/public/Usuario/materia
