@@ -336,3 +336,7 @@
 [2019-11-25 20:52:43] UTN FRA LOGGER.INFO: ip =::1 [] {"uid":"ae7068c"}
 [2019-11-25 20:53:49] UTN FRA LOGGER.INFO: Datos  =PostmanRuntime/7.20.1 [] {"uid":"29c52dd"}
 [2019-11-25 20:53:49] UTN FRA LOGGER.INFO: ip =::1 [] {"uid":"29c52dd"}
+[2019-11-25 22:39:01] UTN FRA LOGGER.INFO: Datos  =Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 [] {"uid":"de71be9"}
+[2019-11-25 22:39:01] UTN FRA LOGGER.INFO: ip =::1 [] {"uid":"de71be9"}
+[2019-11-25 22:40:03] UTN FRA LOGGER.INFO: Datos  =Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 [] {"uid":"3fc50db"}
+[2019-11-25 22:40:03] UTN FRA LOGGER.INFO: ip =::1 [] {"uid":"3fc50db"}

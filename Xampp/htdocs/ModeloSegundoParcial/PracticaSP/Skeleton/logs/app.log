@@ -187,3 +187,5 @@
 [2019-11-25 20:52:18] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FModeloSegundoParcial%2FPracticaSP%2FSkeleton%2Fpublic, RUTA=ingreso%2Fingreso, autoridad=localhost [] {"uid":"41d6b97"}
 [2019-11-25 20:52:43] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FModeloSegundoParcial%2FPracticaSP%2FSkeleton%2Fpublic, RUTA=ingreso%2Fegreso, autoridad=localhost [] {"uid":"f59bbb1"}
 [2019-11-25 20:53:49] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FModeloSegundoParcial%2FPracticaSP%2FSkeleton%2Fpublic, RUTA=user%2Fusuario, autoridad=localhost [] {"uid":"7cb04b3"}
+[2019-11-25 22:39:01] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FModeloSegundoParcial%2FPracticaSP%2FSkeleton%2Fpublic, RUTA=user%2Fusuario, autoridad=localhost [] {"uid":"9dab66d"}
+[2019-11-25 22:40:03] UTN FRA LOGGER.INFO: metodo=POST, URI=http%3A%2F%2Flocalhost%2FModeloSegundoParcial%2FPracticaSP%2FSkeleton%2Fpublic, RUTA=user%2Fusuario, autoridad=localhost [] {"uid":"47312f7"}

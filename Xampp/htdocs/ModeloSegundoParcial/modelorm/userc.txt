@@ -1,0 +1,44 @@
+public function ingresoUsuario($request, $response, $args)
+  {
+      $token = $request->getHeader("token")[0];
+      $data = AutentificadorJWT::ObtenerData($token);
+      $ingreso = new Ingreso;
+      $ingreso->usuario = $data->email;
+      $ingreso->legajo = $data->legajo;
+      //Asi obtengo el ultimo Ingreso::where("usuario", "=", $data->email)->latest('created_at')->get()->first()->toArray();
+      $contadorIngresos = Ingreso::where("usuario", "=", $data->email)->select('created_at')->get()->toArray();
+      $contadorEgresos = Egreso::where("usuario", "=", $data->email)->select('created_at')->get()->toArray();
+      if(count($contadorEgresos) == count($contadorIngresos))
+      {
+        $ingreso->save();
+        $newResponse = $response->withJson("Usuario ingresado correctamente", 200);
+      }
+      else
+      {
+        $newResponse = $response->withJson("El usuario ya tiene una sesion iniciada", 200);
+      }
+      return $newResponse;  
+      
+  }
+  public function egresoUsuario($request, $response, $args)
+  {
+      $token = $request->getHeader("token")[0];
+      $data = AutentificadorJWT::ObtenerData($token);
+      $egreso = new Egreso;
+      $egreso->usuario = $data->email;
+      $egreso->legajo = $data->legajo;
+      //Asi obtengo el ultimo Ingreso::where("usuario", "=", $data->email)->latest('created_at')->get()->first()->toArray();
+      $contadorIngresos = Ingreso::where("usuario", "=", $data->email)->select('created_at')->get()->toArray();
+      $contadorEgresos = Egreso::where("usuario", "=", $data->email)->select('created_at')->get()->toArray();
+      //No se puede egresar un usuario si no existe un ingreso previo o si la cantidad de ingresos es menor a la de egresos
+      if(count($contadorIngresos) == 0 || count($contadorIngresos) <= count($contadorEgresos))
+      {
+        $newResponse = $response->withJson("No se puede egresar el usuario", 200);
+      }
+      else{
+        $egreso->save();
+        $newResponse = $response->withJson("Usuario egresado correctamente", 200);
+      }
+      return $newResponse;  
+      
+    }
