@@ -1,0 +1,65 @@
+localhost => psy-lacomanda.000webhostapp.com/LaComanda/...
+
+<Empleado>
+(post) localhost/TPPinito/public/empleado/login
+(post) localhost/TPPinito/public/empleado/registrarEmpleado
+(get) localhost/TPPinito/public/empleado/listar
+(delete) localhost/TPPinito/public/empleado/{id}
+(delete) localhost/TPPinito/public/empleado/suspender/{id}
+(post)  localhost/TPPinito/public/empleado/modificar (pasar: usuario, id, nombre y tipo)
+(post) localhost/TPPinito/public/empleado/cambiarClave
+(get) localhost/TPPinito/public/empleado/cantidadOperacionesPorSector
+(get) localhost/TPPinito/public/empleado/cantidadOperacionesEmpleadosPorSector (pasar: sector)
+(post) localhost/TPPinito/public/empleado/listarEntreFechasLogin (pasar: fecha1 y fecha2 aaaa-MM-dd)
+(post) localhost/TPPinito/public/empleado/listarEntreFechasRegistro (pasar: fecha1 y fecha2 aaaa-MM-dd)
+
+<Mesas>
+(post) localhost/TPPinito/public/mesa/registrar (pasar: codigo no vacio)
+(get) localhost/TPPinito/public/mesa/listar
+(delete) localhost/TPPinito/public/mesa/{codigo} 
+(post) localhost/TPPinito/public/mesa/foto (pasar: codigo y foto)
+(get) localhost/TPPinito/public/mesa/estadoEsperando (pasar: codigo)
+(post) localhost/TPPinito/public/mesa/estadoEsperando (pasar: codigo)
+(post) localhost/TPPinito/public/mesa/estadoComiendo (pasar: codigo)
+(post) localhost/TPPinito/public/mesa/estadoPagando (pasar: codigo)
+(post) localhost/TPPinito/public/mesa/estadoCerrada (pasar: codigo)
+(post) localhost/TPPinito/public/mesa/cobrar (pasar: codigo)
+(get) localhost/TPPinito/public/mesa/MasUsada 
+(get) localhost/TPPinito/public/mesa/MenosUsada 
+(get) localhost/TPPinito/public/mesa/MasFacturacion 
+(get) localhost/TPPinito/public/mesa/MenosFacturacion 
+(get) localhost/TPPinito/public/mesa/ConFacturaConMasImporte 
+(get) localhost/TPPinito/public/mesa/ConFacturaConMenosImporte 
+(get) localhost/TPPinito/public/mesa/ConMejorPuntuacion 
+(get) localhost/TPPinito/public/mesa/ConPeorPuntuacion 
+(post) localhost/TPPinito/public/mesa/FacturacionEntreFechas (pasar: codigo, fecha1 y fecha2 aaaa-MM-dd) 
+ 
+<Pedido>
+(post) localhost/TPPinito/public/pedido/registrar (pasar: id_mesa, id_menu, cliente)
+(delete) localhost/TPPinito/public/pedido/cancelarPedido (pasar: codigo)
+(get) localhost/TPPinito/public/pedido/listarTodos
+(get) localhost/TPPinito/public/pedido/listarCancelados
+(get) localhost/TPPinito/public/pedido/listarActivos
+(post) localhost/TPPinito/public/pedido/listarTodosPorFecha (pasar: fecha)
+(post) localhost/TPPinito/public/pedido/listarPorMesa (pasar: codigo)
+(post) localhost/TPPinito/public/pedido/tomarPedido (pasar: codigo y minutosEstimados)
+(post) localhost/TPPinito/public/pedido/listoParaServir (pasar: codigo)
+(post) localhost/TPPinito/public/pedido/servir (pasar: codigo)
+(post) localhost/TPPinito/public/pedido/tiempoRestante (pasar: codigo)
+(get) localhost/TPPinito/public/pedido/listarFueraDelTiempoEstipulado
+(get) localhost/TPPinito/public/pedido/MasVendido
+(get) localhost/TPPinito/public/pedido/MenosVendido
+
+<Menu>
+(post) localhost/TPPinito/public/menu/registrar (pasar: nombre, precio y sector)
+(post) localhost/TPPinito/public/menu/modificar (pasar: id, nombre, precio y sector)
+(get) localhost/TPPinito/public/menu/listar
+(post) localhost/TPPinito/public/menu/bajaMenu (pasar: id)
+
+<Encuesta>
+(post) localhost/TPPinito/public/encuesta/registrar (pasar: codigoMesa, puntuacionMesa, puntuacionRestaurante, puntuacionMozo, puntuacionCocinero y comentario)
+(get) localhost/TPPinito/public/encuesta/listar
+(post) localhost/TPPinito/public/encuesta/listarEntreFechas (pasar: fecha1 y fecha2 aaaa-MM-dd)
+
+<Factura>
+(post) localhost/TPPinito/public/factura/listarEntreFechas (pasar: fecha1 y fecha2 aaaa-MM-dd)
